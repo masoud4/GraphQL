@@ -16,7 +16,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "Classic\\GraphQL\\": "src/"
+            "masoud4\\GraphQL\\": "src/"
         }
     },
     "autoload-dev": {
